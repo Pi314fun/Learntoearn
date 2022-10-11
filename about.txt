@@ -1,0 +1,19 @@
+I am designing a parental controls app that allows for kids to earn time online by completing assignments. These could be assigned by the admin acount or just a preloaded topic
+I am going to create a database of homework sheets to represent major topics.
+Main gui
+  admin(parents)
+    assignable checklist for chores
+    kids names amount of time they have availible on countdown timer
+    button to add or remove time
+    a way to upload study files or worksheets to the app for learning
+    an on off switch for each individual kid
+  user(kid)
+    list of learning topics
+    checklist of chores availible
+    total time on a countdown timer
+    a request time button
+    
+This project will probably be in development until it is obsolite as I am learning how to complete these things in order to code them.
+My origional idea had me cutting off a connection of grouped devices that belong to a single user at the router unless time was available.
+Any input or idea or help would be appreciated as I don't know exactly where to begin. I am currently designing a crude dashboard. reach out if you 
+feel like you could help or want to be apart of the project. 
